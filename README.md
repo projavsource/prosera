@@ -57,3 +57,6 @@
 20. [gravure-idol-ranking](https://gravure-idol-ranking.com/) ✔
 21. [gradoldynamite](http://gradoldynamite.blog.2nt.com/) ✔
 22. [9xbuddy](https://9xbuddy.com/amp/sites/xfantazy) ✔
+
+## STERAM:
+1. [MISSAV](missav.com) ✔
