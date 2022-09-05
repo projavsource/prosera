@@ -8,6 +8,7 @@
     <li><a href="#premium">PREMIUM</a></li>
     <li><a href="#private-trackers">PRIVATE TRACKERS</a></li>
     <li><a href="#resource">RESOURCE</a></li>
+    <li><a href="#stream">STREAM</a></li>
   </ol>
 </details>
 
@@ -58,5 +59,5 @@
 21. [gradoldynamite](http://gradoldynamite.blog.2nt.com/) ✔
 22. [9xbuddy](https://9xbuddy.com/amp/sites/xfantazy) ✔
 
-## STERAM:
+## STREAM:
 1. [MISSAV](missav.com) ✔
